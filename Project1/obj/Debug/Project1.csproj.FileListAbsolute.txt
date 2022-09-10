@@ -1,0 +1,37 @@
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.frmLogin.resources
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form2.resources
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\LHUser\Desktop\Lap-trinh-Csharp-main\Project\Project1\bin\Debug\LoginScreen.exe.config
+C:\Users\LHUser\Desktop\Lap-trinh-Csharp-main\Project\Project1\obj\Debug\LoginScreen.exe
+C:\Users\LHUser\Desktop\Lap-trinh-Csharp-main\Project\Project1\obj\Debug\LoginScreen.pdb
+C:\Users\LHUser\Desktop\Project\Project1\bin\Debug\LoginScreen.exe.config
+C:\Users\LHUser\Desktop\Project\Project1\obj\Debug\LoginScreen.exe
+C:\Users\LHUser\Desktop\Project\Project1\obj\Debug\LoginScreen.pdb
+C:\Users\LHUser\Desktop\Project\Project1\bin\Debug\LoginScreen.exe
+C:\Users\LHUser\Desktop\Project\Project1\bin\Debug\LoginScreen.pdb
+C:\Users\LHUser\Desktop\Project\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\LHUser\Desktop\Project\Project1\obj\Debug\LoginScreen.frmLogin.resources
+C:\Users\LHUser\Desktop\Project\Project1\obj\Debug\LoginScreen.Form2.resources
+C:\Users\LHUser\Desktop\Project\Project1\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\LHUser\Desktop\Project\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\Thư mục không có tiêu đề-20220902T081936Z-001\Thư mục không có tiêu đề\Project1\bin\Debug\LoginScreen.exe.config
+C:\Users\User\Downloads\Thư mục không có tiêu đề-20220902T081936Z-001\Thư mục không có tiêu đề\Project1\bin\Debug\LoginScreen.exe
+C:\Users\User\Downloads\Thư mục không có tiêu đề-20220902T081936Z-001\Thư mục không có tiêu đề\Project1\bin\Debug\LoginScreen.pdb
+C:\Users\User\Downloads\Thư mục không có tiêu đề-20220902T081936Z-001\Thư mục không có tiêu đề\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Thư mục không có tiêu đề-20220902T081936Z-001\Thư mục không có tiêu đề\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Thư mục không có tiêu đề-20220902T081936Z-001\Thư mục không có tiêu đề\Project1\obj\Debug\LoginScreen.frmLogin.resources
+C:\Users\User\Downloads\Thư mục không có tiêu đề-20220902T081936Z-001\Thư mục không có tiêu đề\Project1\obj\Debug\LoginScreen.Form2.resources
+C:\Users\User\Downloads\Thư mục không có tiêu đề-20220902T081936Z-001\Thư mục không có tiêu đề\Project1\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\User\Downloads\Thư mục không có tiêu đề-20220902T081936Z-001\Thư mục không có tiêu đề\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Thư mục không có tiêu đề-20220902T081936Z-001\Thư mục không có tiêu đề\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Thư mục không có tiêu đề-20220902T081936Z-001\Thư mục không có tiêu đề\Project1\obj\Debug\LoginScreen.exe
+C:\Users\User\Downloads\Thư mục không có tiêu đề-20220902T081936Z-001\Thư mục không có tiêu đề\Project1\obj\Debug\LoginScreen.pdb
